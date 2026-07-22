@@ -1,2 +1,8 @@
-# pupper-command-pipeline
-Robo712 Artifact #001: A ROS2-based command and feedback pipeline connecting human commands with a Stanford Pupper robot.
+## Long-term Vision
+
+Robo712 aims to build robotic platforms
+with reliable command, execution, and
+calibration feedback loops.
+
+Calib712 represents the future data and
+calibration intelligence layer of this ecosystem.
